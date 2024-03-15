@@ -3,6 +3,22 @@ html{
     background-size: cover;
 }
 
+KBD{    
+        font-size: 50px;
+        color: #FFF
+}
 
-
-
+span{
+        font-size: 25px;
+        color: #fff;
+}
+.sound{
+        font-size: 12px;
+        color:gold;
+}
+.key{
+        background:rgba(0, 0, 0, 0.726);
+        width:150px;
+        margin: 1rem;
+        border-radius: 8px;
+}

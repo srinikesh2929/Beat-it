@@ -6,5 +6,5 @@ Link: https://keepbrewing.github.io/simple_virtuoso_drums
 
 How to: Just hit the buttons and play the beat!
 
-Javascript30 #1 [https://javascript30.com]
+(Javascript30 #1)[https://javascript30.com]
 
